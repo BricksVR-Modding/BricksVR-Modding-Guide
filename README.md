@@ -43,9 +43,6 @@ https://github.com/othneildrew/Best-README-Template
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -84,30 +81,12 @@ Recommended Method
 * Another Method would be to take the zipped folder and unzip/extract it. Take your folder and move it to the folder 'development_behavior_packs', which can be found in a path like `\Users\USER_NAME\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\development_behavior_packs`. This will make your life way easier, while developing this pack. It will update the content inside your game everytime you make any changes to the script. For the changes to apply you must leave and rejoin your world where the pack is applied at.
 
 <br />
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/notbeer/Gametest-API-Wrapper.git
-   ```
-<br />
-
-## Usage
-<strong>WARNING: </strong>`If you are going to apply any GameTest related scripts to your world, please make a copy of your world before you do so! I'm not responsible if anything goes wrong-`
-
-
-Create a new world, since GameTest FrameWork is still experimental. Make sure in your settings you have `GameTest FrameWork` enabled under `Experiments` category.
-I have some examples on how you can use this library. Specifically on custom commands. Type in the game chat `+help` for the list of custom commands or `+help [command name]` to get information on a specific command!
-
-If you want to add or edit your own stuff to the pack. Please head to the [src](https://github.com/notbeer/Gametest-API-Wrapper/tree/main/src) folder. You can start working with the typescript files in there. At the end of your work make sure to transpile your work. You can run [transpile.sh](https://github.com/notbeer/Gametest-API-Wrapper/blob/main/transpile.sh) to tranpile your work!
-
 <!-- ROADMAP -->
 <br />
 
 ## Roadmap
 
-See the [open issues](https://github.com/notbeer/Gametest-API-Wrapper/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/BricksVR-Modding/BricksVR-Modding-Guide/issues) for a list of proposed features (and known issues).
 
 
 
@@ -119,7 +98,7 @@ See the [open issues](https://github.com/notbeer/Gametest-API-Wrapper/issues) fo
 You can share your amazing talent with other people! Any Contributions are **greatly appreciated**. 
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+2. Make your changes (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
@@ -140,16 +119,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Discord - Message me on [notbeer#9204](https://discordapp.com/users/606353040336748584/) or contact me throught the [Bedrock OSS](https://discord.gg/y4cnaJ9E9C) Discord server.
+Discord - Message me on [BelugaTheAxolotl#2134](https://discordapp.com/users/566770844286844953/) or contact me throught the [BricksVR](https://discord.gg/smD8uxHjxU) Discord server.
 
-Project Link: [https://github.com/notbeer/Gametest-API-Wrapper](https://github.com/notbeer/Gametest-API-Wrapper)
+Project Link: [https://github.com/BricksVR-Modding/BricksVR-Modding-Guide](https://github.com/BricksVR-Modding/BricksVR-Modding-Guide)
 
 <br />
 
 ## Acknowledgements
 
-* [GameTest FrameWork Documentation](https://docs.microsoft.com/en-us/minecraft/creator/scriptapi/mojang-minecraft/mojang-minecraft)
-
+* [BricksVR Source Code](https://github.com/d12/bricksvr-game)
+* [Readme based off of notbeer's gametest framework readme](https://github.com/notbeer/Gametest-API-Wrapper)
 
 [contributors-shield]: https://img.shields.io/github/contributors/BricksVR-Modding/BricksVR-Modding-Guide.svg?style=for-the-badge
 [contributors-url]: https://github.com/BricksVR-Modding/BricksVR-Modding-Guide/graphs/contributors
@@ -160,4 +139,4 @@ Project Link: [https://github.com/notbeer/Gametest-API-Wrapper](https://github.c
 [issues-shield]: https://img.shields.io/github/issues/BricksVR-Modding/BricksVR-Modding-Guide.svg?style=for-the-badge
 [issues-url]: https://github.com/BricksVR-Modding/BricksVR-Modding-Guide
 [license-shield]: https://img.shields.io/github/license/BricksVR-Modding/BricksVR-Modding-Guide.svg?style=for-the-badge
-[license-url]: https://github.com/BricksVR-Modding/BricksVR-Modding-Guide/blob/main/LICENSE.txt
+[license-url]: https://github.com/BricksVR-Modding/BricksVR-Modding-Guide/blob/main/LICENSE
