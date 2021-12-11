@@ -19,9 +19,9 @@ https://github.com/othneildrew/Best-README-Template
     <br />
     <a href="https://github.com/BricksVR-Modding/BricksVR-Modding-Guide">Github</a>
     ·
-    <a href="https://github.com/notbeer/Gametest-API-Wrapper/issues">Report An Issue</a>
+    <a href="https://github.com/BricksVR-Modding/BricksVR-Modding-Guide/issues">Report An Issue</a>
     ·
-    <a href="https://github.com/notbeer/Gametest-API-Wrapper/issues">Request A Feature</a>
+    <a href="https://github.com/BricksVR-Modding/BricksVR-Modding-Guide/issues">Request A Feature</a>
   </p>
 </p>
 
@@ -151,13 +151,13 @@ Project Link: [https://github.com/notbeer/Gametest-API-Wrapper](https://github.c
 * [GameTest FrameWork Documentation](https://docs.microsoft.com/en-us/minecraft/creator/scriptapi/mojang-minecraft/mojang-minecraft)
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/notbeer/MCBE-GameTest-FrameWork.svg?style=for-the-badge
-[contributors-url]: https://github.com/notbeer/Gametest-API-Wrapper/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/notbeer/MCBE-GameTest-FrameWork.svg?style=for-the-badge
-[forks-url]: https://github.com/notbeer/Gametest-API-Wrapper/network/members
-[stars-shield]: https://img.shields.io/github/stars/notbeer/MCBE-GameTest-FrameWork.svg?style=for-the-badge
-[stars-url]: https://github.com/notbeer/Gametest-API-Wrapper/stargazers
-[issues-shield]: https://img.shields.io/github/issues/notbeer/MCBE-GameTest-FrameWork.svg?style=for-the-badge
-[issues-url]: https://github.com/notbeer/Gametest-API-Wrapper/issues
-[license-shield]: https://img.shields.io/github/license/notbeer/MCBE-GameTest-FrameWork.svg?style=for-the-badge
-[license-url]: https://github.com/notbeer/Gametest-API-Wrapper/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/BricksVR-Modding/BricksVR-Modding-Guide.svg?style=for-the-badge
+[contributors-url]: https://github.com/BricksVR-Modding/BricksVR-Modding-Guide/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/BricksVR-Modding/BricksVR-Modding-Guide.svg?style=for-the-badge
+[forks-url]: https://github.com/https://github.com/BricksVR-Modding/BricksVR-Modding-Guide/network/members
+[stars-shield]: https://img.shields.io/github/stars/BricksVR-Modding/BricksVR-Modding-Guide.svg?style=for-the-badge
+[stars-url]: https://github.com/BricksVR-Modding/BricksVR-Modding-Guide/stargazers
+[issues-shield]: https://img.shields.io/github/issues/BricksVR-Modding/BricksVR-Modding-Guide.svg?style=for-the-badge
+[issues-url]: https://github.com/BricksVR-Modding/BricksVR-Modding-Guide
+[license-shield]: https://img.shields.io/github/license/BricksVR-Modding/BricksVR-Modding-Guide.svg?style=for-the-badge
+[license-url]: https://github.com/BricksVR-Modding/BricksVR-Modding-Guide/blob/main/LICENSE.txt
