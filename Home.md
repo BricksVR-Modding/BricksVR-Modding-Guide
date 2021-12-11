@@ -7,8 +7,8 @@ https://github.com/othneildrew/Best-README-Template
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-<a href="https://github.com/notbeer/Gametest-API-Wrapper">
-    <img src="https://camo.githubusercontent.com/2cfb14ae080080e092ff1e37841ba04f7ee1ae6ac19be3503f995bf2e90c9479/68747470733a2f2f736372756d6f72672d776562736974652d70726f642e73332e616d617a6f6e6177732e636f6d2f64727570616c2f696e6c696e652d696d616765732f323031382d30392f556e6465727374616e64696e67253230616e642532304170706c79696e67253230536372756d2e706e67" alt="Logo" width="80" height="80">
+<a href="https://github.com/BricksVR-Modding/BricksVR-Modding-Guide">
+    <img src="https://avatars.githubusercontent.com/u/94014912?s=200&v=4" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center"><u>BricksVR Modding</u></h3>
 
