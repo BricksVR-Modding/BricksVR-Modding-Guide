@@ -17,11 +17,11 @@ https://github.com/othneildrew/Best-README-Template
     <br />
     <br />
     <br />
-    <a href="https://github.com/notbeer/Gametest-API-Wrapper">View Demo</a>
+    <a href="https://github.com/BricksVR-Modding/BricksVR-Modding-Guide">Github</a>
     ·
-    <a href="https://github.com/notbeer/Gametest-API-Wrapper/issues">Report Bug</a>
+    <a href="https://github.com/notbeer/Gametest-API-Wrapper/issues">Report An Issue</a>
     ·
-    <a href="https://github.com/notbeer/Gametest-API-Wrapper/issues">Request Feature</a>
+    <a href="https://github.com/notbeer/Gametest-API-Wrapper/issues">Request A Feature</a>
   </p>
 </p>
 
