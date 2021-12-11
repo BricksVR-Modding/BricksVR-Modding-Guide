@@ -10,12 +10,11 @@ https://github.com/othneildrew/Best-README-Template
 <a href="https://github.com/notbeer/Gametest-API-Wrapper">
     <img src="https://camo.githubusercontent.com/2cfb14ae080080e092ff1e37841ba04f7ee1ae6ac19be3503f995bf2e90c9479/68747470733a2f2f736372756d6f72672d776562736974652d70726f642e73332e616d617a6f6e6177732e636f6d2f64727570616c2f696e6c696e652d696d616765732f323031382d30392f556e6465727374616e64696e67253230616e642532304170706c79696e67253230536372756d2e706e67" alt="Logo" width="80" height="80">
   </a>
-  <h3 align="center"><u>GameTest API Wrapper</u></h3>
+  <h3 align="center"><u>BricksVR Modding</u></h3>
 
   <p align="center">
-    Gametest API Wrapper is a library built using Minecraft Bedrock Edition Gametest API. This library will help you keep your code clean and make it easier to interact with the Gametest API, while including a lot of new functions/methods for you to use! This pack will have some miscellaneous and some custom command that you may use! 
+    This readme is to provide documentation on the in-game scripts inside BricksVR. THIS IS NOT FOR MODDING THE GAME IT'S SELF. If you want to learn how to mod the game check out https://melonwiki.xyz/#/modders/quickstart.
     <br />
-    <a href=""><strong>Docs Coming soon »</strong></a>
     <br />
     <br />
     <a href="https://github.com/notbeer/Gametest-API-Wrapper">View Demo</a>
